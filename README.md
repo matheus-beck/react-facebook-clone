@@ -1,10 +1,10 @@
 # Minimalist Facebook Clone
 
 <h1 align="center">
-  <img src="https://i.imgur.com/t0X5M3S.png" width="500">
+  <img src="https://i.imgur.com/t0X5M3S.png" width="700">
 </h1>
 
-ReactJS app developed to simulate a minimalist clone of Facebook
+ReactJS app developed to simulate a minimalist clone of Facebook  
 You can check the app here: https://matheus-beck.github.io/react-facebook-clone/
 
 # Front end: ReactJS app
