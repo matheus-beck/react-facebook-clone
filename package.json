@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "homepage": "https://matheus-beck.github.io/react-facebook-clone",
   "scripts": {
-    "dev": "webpack-dev-server --mode development"
+    "build": "webpack --mode production",
+    "dev": "webpack-dev-server --mode development",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d public"
   },
   "devDependencies": {
     "@babel/core": "^7.7.7",
