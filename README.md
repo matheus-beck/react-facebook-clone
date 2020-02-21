@@ -1,4 +1,4 @@
-# Minimalist Facebook Clone
+# 👍 Minimalist Facebook Clone
 
 <h1 align="center">
   <img src="https://i.imgur.com/t0X5M3S.png" width="700">
