@@ -1,5 +1,14 @@
 # 👍 Minimalist Facebook Clone
 
+<p align="center">
+  <img alt="GitHub powered by" src="https://img.shields.io/badge/Powered%20by-React.js-blue.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/matheus-beck/react-facebook-clone">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/matheus-beck/react-facebook-clone">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/matheus-beck/react-facebook-clone">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/matheus-beck/react-facebook-clone">
+  <img alt="GitHub" src="https://img.shields.io/github/license/matheus-beck/react-facebook-clone">
+</p>
+
 <h1 align="center">
   <img src="https://i.imgur.com/t0X5M3S.png" width="700">
 </h1>
